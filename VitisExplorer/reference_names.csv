@@ -1,0 +1,4 @@
+Name,prefix_SO_URI,Authentification,Plot,MustObject,Sample,Wine
+Id1,vitis-explorer.inrae.fr:id/scientific-object/so-,http://vitisexplorer.mistea.inrae.fr:9002/rest,vocabulary:Plot,vitis-explorer:MustObject,vocabulary:Sample,Vitis-explorer:Wine
+Id2,VitisExplorer,charlotte.brault@vignevin.com,Parcelle Unitaire,Moût,Echantillon,vin
+Id3,,,pu,mout,ech,vin

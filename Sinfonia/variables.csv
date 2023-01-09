@@ -1,0 +1,252 @@
+"uri","name","alternative_name","description","datatype","exact_match","URIgroup","group"
+"http://sinfonia.vignevin.com/id/variable/apex_iac","apex_IAC","Apex_Indice_Arret_Croissance","Suivi de la dynamique de croissance des apex via l'Indice d’Arrêt de Croissance IAC=100/3 x (1-%P + %R +2%C), avec P= apex en croissance ; R = apex ralenti ; C = chute d’apex (Rodriguez-Lovelle et al., 2009)","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/baie_absorbance_bleue","baie_absorbance_bleue","DO 620","Mesure de la densité optique ou absorbance bleue dans les baies à 620 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_absorbance_jaune","baie_absorbance_jaune","DO 420","Mesure de l'absorbance jaune à 420 nm dans les baies.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_absorbance_rouge","baie_absorbance_rouge","DO 520","Mesure de la densité optique dans les baies à 520 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_ascorbique_mgl","baie_acide_ascorbique_mgL",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_ascorbique_microm","baie_acide_ascorbique_microM",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_caftarique_mgl","baie_acide_caftarique_mgL",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_caftarique_microm","baie_acide_caftarique_microM",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_cis-coutarique_mgl","baie_acide_cis-coutarique_mgL",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_cis-coutarique_microm","baie_acide_cis-coutarique_microM",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_hydroxycinnamique","baie_acide_hydroxycinnamique","AH Po A 320","Détermination des acides hydroxycinnamiques ou acides phénols dans la baie, mesuré à 320 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_acide_trans-coutarique_mgl","baie_acide_trans-coutarique_mgL",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_acide_trans-coutarique_microm","baie_acide_trans-coutarique_microM",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_antho_mgleqmalvidine","baie_antho_mgLeqMalvidine","BERRY_ANTHO","Mesure de la concentration en anthocyane dans le moût des baies en milligramme par litre d'équivalent en malvidine","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_at","baie_AT_gH2SO4","BERRY_TA","Acidité de titration en équivalent g/L H2SO4 du moût","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000231","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_azote_alpha-amine_mgl","Baie_azote_alpha-amine_mgL",NA,"Concentration en azote alpha-aminé dans la baie en mg/L.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_azote_ammoniacal_mgl","Baie_azote_ammoniacal_mgL","BERRY_N_NH4","Concentration en azote ammoniacal dans les baies en mg/L.","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:1000352",NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_azote_assim_mgl","Baie_azote_assim_mgL","YAN","Dosage de la concentration en azote assimilable dans les baies en mg/L. L'azote assimilable est aussi appelé ""yeast assimilable nitrogen"" en anglais.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_fructose_gkgbaie","baie_fructose_gkgBaie","BERRY_FRUC","Calcul de la concentration en fructose dans les baies en gramme par kilogramme de baie, d'après un dosage en gramme par litre.
+","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_fructose_gl","baie_fructose_gL","BERRY_FRUC","Dosage de la concentration en fructose dans les baies en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_fructose_mgbaie","Baie_fructose_mgBaie","BERRY_FRUC","Calcul de la concentration en fructose dans les baies en milligramme par baie, d'après un dosage en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_fructose_mm","baie_fructose_mM","BERRY_FRUC","Calcul de la concentration en fructose dans les baies en milli molaire, d'après un dosage en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_glucose_gkgbaie","baie_glucose_gkgBaie","BERRY_GLUC","Calcul de la concentration en glucose dans les baies en gramme par kilogramme de baie, d'après un dosage en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_glucose_gl","baie_glucose_gL","BERRY_GLUC","Dosage concentration en glucose dans les baies en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_glucose_mgbaie","baie_glucose_mgBaie","BERRY_GLUC","Calcul de la quantité de glucose dans les baies, après dosage par HPLC en gramme par litre","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_glucose_mm","baie_glucose_mM","BERRY_GLUC","Calcul de la concentration en glucose sur baie en milli molaire, d'après un dosage en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_glutathion_mgl","baie_glutathion_mgL",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_indice_clarte","baie_indice_clarte","indice_clarte_L",NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_indice_jaune","baie_indice_jaune","indice_jaune_b",NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_indice_rouge","baie_indice_rouge","indice_rouge_a",NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_intensite_colorante","baie_intensite_colorante","baie_intensite_colorimetrique_modifiee","L’intensité (ou indice) colorante modifiée est la somme des mesures de densité optique aux longueurs d'ondes de 420 nm, 520 nm et 620 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_ipt","baie_IPT","BERRY_DO280","Indice des polyphénols totaux mesuré sur baie à 280 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_malique_gkgbaie","baie_malique_gkgBaie","BERRY_MAL","Calcul de la concentration en acide malique dans les baies en gramme par kilogramme de baie, d'après un dosage en gramme par litre. 
+","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000102","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_malique_gl","baie_malique_gL","BERRY_MAL","Calcul de la concentration en acide malique dans les baies en gramme par litre.
+","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000102","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_malique_mgbaie","baie_malique_mgBaie","BERRY_MAL","Calcul de la concentration en acide malique dans les baies en milligramme par baie, d'après un dosage en gramme par litre.
+","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000102","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_malique_mm","baie_malique_mm","BERRY_MAL","Calcul de la concentration en acide malique dans les baies en millimolaire, d'après un dosage en gramme par litre. ","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000102","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_nuance","baie_nuance","DO 420 / DO 520","Nuance mesuré sur baie, correspond au ratio de densité optique aux longueurs d'ondes 420 et 520 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_ph","baie_pH","Berry_pH","Mesure du pH du moût à l'aide d'un pH-mètre","http://www.w3.org/2001/XMLSchema#decimal","http://www.cropontology.org/ontology/CO_356/Vitis/1000184","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_pi420","baie_Pi420",NA,"Pigments polymériques mesurés sur baie à 420 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_pi520","baie_Pi520",NA,"Pigments polymériques mesurés sur baie à 520 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_polyphenols","baie_polyphenols","Po A 520","Mesure des polyphénols sur baie par analyse spectrophotométrique à 520 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_potassium_gl","Baie_potassium_gL","BERRY_K_gL","Dosage de la concentration en potassium dans les baies en g/L.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_potassium_mgl","Baie_potassium_mgL","BERRY_K","Dosage de la concentration en potassium dans les baies en mg/L.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_shikimique_gkgbaie","baie_shikimique_gkgbaie","BERRY_SHIK","Calcul de la concentration en acide shikimique dans les baies en gramme par kilogramme de baie, d'après un dosage en gramme par litre. ","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_shikimique_gl","baie_shikimique_gL","BERRY_SHIK","Dosage de la concentration en acide shikimique dans les baies en gramme par litre. 
+","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/baie_shikimique_mgbaie","baie_shikimique_mgBaie","BERRY_SHIK","Calcul de la concentration en acide shikimique dans les baies en milligramme par baie, d'après un dosage en gramme par litre. 
+","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_shikimique_mm","baie_shikimique_mM","BERRY_SHIK","Calcul de la concentration en acide shikimique dans les baies en millimolaire, d'après un dosage en gramme par litre. 
+","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_tap","baie_TAP","berry_TAP","Taux alcoolémique volumique ou taux d'alcool probable mesuré au réfractomètre ","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_tartrique_gkgbaie","baie_tartrique_gkgBaie","BERRY_TART","Calcul de la concentration en acide tartrique dans les baies en gramme par kilogramme de baies, d'après un dosage en gramme par litre.
+","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000222","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_tartrique_gl","baie_tartrique_gL","BERRY_TART","Dosage de la concentration en acide tartrique dans les baies en gramme par litre.
+","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000222","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_tartrique_mgbaie","baie_tartrique_mgBaie","BERRY_TART","Calcul de la concentration en acide tartrique dans les baies en milligramme par baie, d'après un dosage en gramme par litre.
+","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000222","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/baie_tartrique_mm","baie_tartrique_mM","BERRY_TART","Calcul de la concentration en acide tartrique dans les baies en millimolaire, d'après un dosage en gramme par litre. ","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000222","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/cep_date_recolte_interpolation_stade_phenologique_date_jour","Date_récolte","Date récolte 20 Brix","Date à laquelle les baies sont à pleine maturité physiologique, déterminé par un taux de brix (taux de sucre) dans les baies.","http://www.w3.org/2001/XMLSchema#date",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/cep_poids_bois_taille_kg","Cep_poids_bois_taille_kg","PRUN_FW_PLANT","Mesure du poids de bois de taille par cep en kilogramme.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/cep_poids_de_200_baies_pesee_gramme","baies_poids_200b","Poids de 200 baies","Mesure du poids de 200 baies.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/cicadelle_s1_5","Cicadelle_S1_5","LEAFHOPPER_S1_5","Notation des dégâts des attaques de cicadelle sur le cep, sur une échelle de 1 à 5.
+1 : faible, 5 : fort.","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/debourrement","débourrement","Bourgeon_Débourrement","date à laquelle 50% des bourgeons ont débourré","http://www.w3.org/2001/XMLSchema#date","http://www.cropontology.org/rdf/CO_356:1000001","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
+"http://sinfonia.vignevin.com/id/variable/debourrement-jj","débourrement_jj","DOY_BUD","Date à laquelle 50% des bourgeons ont débourrés (stade C ou BBCH07), exprimée en jours de l'année (jour julien)","http://www.w3.org/2001/XMLSchema#integer","http://www.cropontology.org/ontology/CO_356/Vitis/1000076","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
+"http://sinfonia.vignevin.com/id/variable/fertilite_s1_5","Fertilite_S1_5","SHOOT_FERT_S1_5","Notation de la fertilité des rameaux sur une échelle de 1 à 5.
+1 : faible, 5 : forte.","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_carence_mg_prc","Feuille_Carence_Mg_prc","LEAF_MG_DEFICIENCY_PRC","Observation de la carence en magnésium (Mg) sur feuille en pourcentage.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_carence_mg_s1_3","Feuille_Carence_Mg_S1_3",NA,"Observation de la carence en magnésium (Mg) sur feuille de vigne.
+1 : absence, 2 : un peu, 3 : beaucoup","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_carencemg_s0_5","Feuille_CarenceMg_S0_5",NA,"Mesure de l'intensité de la carence en Magnésium sur les feuilles.
+Echelle :  0 : absence / 1 : trace / 2 : > 5% / 3 : > 25% / 4 : > 75% / 5 : généralisé.","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_erinose_s0_3","Feuille_erinose_S0_3","LEAF_ERINOSE","Mesure de l'intensité des symptômes d'érinose sur feuille.
+0 : absence
+1 : trace 
+2 : un peu
+3 : beaucoup.","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_erinose_s0_5","Feuille_Erinose_S0_5",NA,"Mesure de l'intensité des symptômes d'érinose sur feuille. 
+0 : absence 
+1 : trace 
+2 : > 5%
+3 : > 25%
+4 : > 75%
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_erinose_vate_s1_3","Feuille_erinose_VATE_S1_3","LEAF_ERINOSE","Notation des symptômes d'érinose sur feuille.
+1 : absence, 2 : un peu, 3 : beaucoup","http://www.w3.org/2001/XMLSchema#integer","https://cropontology.org/term/CO_356:2000244",NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_freq_black-rot","Feuille_Freq_Black-rot","Feuille_Fréquence Black-rot","Fréquence de feuilles présentant un ou plusieurs symptômes de présence de black-rot.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_freq_phylloxera","Feuille_Freq_Phylloxera","LEAF_PHYL_PC","Fréquence de feuilles présentant un ou plusieurs symptômes de présence de phylloxéra.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_freqblack-rot_s0_5","Feuille_FreqBlack-rot_S0_5","LEAF_BR_S05","Fréquence de présence de symptômes de black-rot sur les feuilles selon une échelle 0-5. 
+0 : absence 
+1 : trace 
+2 : > 5% 
+3 : > 25% 
+4 : > 75% 
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_freqmildiou_s0_5","Feuille_FreqMildiou_S0_5","LEAF_DM_S05","Fréquence de présence de symptôme de mildiou sur les feuilles selon une échelle 0-5.
+0 : absence
+1 : trace
+2 : > 5%
+3 : > 25%
+4 : > 75%
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_freqoidium_s0_5","Feuille_FreqOidium_S0_5","LEAF_PM_S05","Fréquence de présence de symptôme d'oïdium sur les feuilles selon une échelle 0-5. 
+0 : absence 
+1 : trace 
+2 : > 5% 
+3 : > 25% 
+4 : > 75% 
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_frequence_mildiou","Feuille_Freq_Mildiou","Fréquence Mildiou","Fréquence de feuilles présentant un ou plusieurs symptômes de présence de mildiou","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/feuille_frequence_oidium","Feuille_freq_Oidium","Fréquence Oidium","Fréquence de feuilles présentant un ou plusieurs symptômes de présence d'oïdium.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/feuille_intensit_attaque_phylloxera","Feuille_intensité_attaque_Phylloxera","LEAF_PHYL_PC","Moyenne globale des pourcentages des surfaces touchées par le phylloxéra sur feuilles (incluant feuilles non touchées).","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_intensite_attaque_black-rot","Feuille_intensite_attaque_black-rot","LEAF_BR_PC","Moyenne globale des pourcentages des surfaces touchées par le black-rot sur feuilles, incluant feuilles non touchées (intensité d'attaque)","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_intensite_attaque_cicadelle","Feuille_intensite_attaque_cicadelle","LEAFHOPPER_PRC","Notation des impacts des dégâts de cicadelle sur les feuilles, en pourcentage d'intensité d'attaque (incluant les feuilles non touchées).","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_intensite_attaque_oidium","Feuille_intensite_attaque_oidium","UN_LEAF_PC","Moyenne globale des pourcentages des surfaces foliaires touchées par l'oïdium, incluant les feuilles non touchées : intensité d'attaque","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:2000149",NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_intensite_mildiou","Feuille_Intensité_attaque Mildiou","PM_LEAF_PC","Moyenne globale des pourcentages des surfaces touchées par le mildiou sur feuilles (incluant feuilles non touchées) (intensité d'attaque)","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:2000148","http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/feuille_mildiou_oiv452","feuille_Résistance_mildiou_OIV452","Degré résistance mildiou","Notation de la résistance maladie des feuilles au mildiou, selon l'échelle définie par la grille OIV 452","http://www.w3.org/2001/XMLSchema#integer",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/feuille_nb_black-rot","feuille_nb_Black-rot","nb-feuille-black_rot","nombre de feuilles par cep avec au moins une tache de black rot","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/feuille_nombre_taches_black-rot_plante","Feuille_nombre_taches_black-rot_plante","LEAF_BR_NB","Comptage visuel du nombre de tâches de black-rot sur feuille par plante.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_oidium_oiv455","feuille_Résistance_oidium_OIV455","Degré résistance oidium","Notation de la résistance maladie des feuilles à l'oïdium, selon l'échelle définie par la grille OIV 455","http://www.w3.org/2001/XMLSchema#integer",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/feuille_phylloxera_s0_3","Feuille_phylloxera_S0_3","LEAF_PHYLLOXERA","Mesure de l'intensité des symptômes de phylloxera sur feuille. 0 : absence 1 : trace 2 : un peu 3 : beaucoup.","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_phylloxra_s1_3","Feuille_phylloxéra_S1_3","LEAF_PHYLLOXERA","Symptômes du phylloxéra sur les feuilles de vigne.
+0 : absence, 1 : trace, 2 : un peu, 3 : beaucoup","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/fleur_intensite_attaque_mildiou","Fleur_intensite_attaque_mildiou","FLOW_DM_PC","Moyenne globale des pourcentages des surfaces touchées par le mildiou sur fleurs : intensité d'attaque.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/floraison","floraison","Inflorescence_Floraison","date à laquelle 50% des boutons floraux ont fleuri","http://www.w3.org/2001/XMLSchema#date","http://www.cropontology.org/rdf/CO_356:1000011","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
+"http://sinfonia.vignevin.com/id/variable/floraison-jj","floraison_jj","DOY_FLO","Date de floraison exprimée en jours de l'année (jour julien). La floraison correspond à 50% de fleurs ouvertes (BBCH65).","http://www.w3.org/2001/XMLSchema#integer","http://www.cropontology.org/ontology/CO_356/Vitis/1000077","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
+"http://sinfonia.vignevin.com/id/variable/gp_pds_g","Gp_pds_g","SCLUST_W_G","Grappe : poids d'une grappe en g","http://www.w3.org/2001/XMLSchema#decimal","http://www.cropontology.org/rdf/CO_356:1000048","http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/grappe_compacite_oiv204","grappe_compacité_OIV204","MORPHO_OIV_204","Notation de la compacité de la grappe sur une échelle de 1 à 9 selon protocole OIV 204
+https://plantgrape.plantnet-project.org/media/content/OIV_204_FR.pdf","http://www.w3.org/2001/XMLSchema#decimal","http://www.cropontology.org/ontology/CO_356/Vitis/1000037","http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/grappe_compacite_vate","grappe_compacité_VATE","Grappe_Compacité","évaluation juste avant récolte de la compacité de la grappe sur une échelle de 1 à 3 selon protocole VATE 
+1:lâche
+2:normal
+3:compacte
+Attention : échelle différente de OIV204","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/grappe_freq_black-rot","grappe_ Freq_Black-rot","Fréquence Black-rot","Fréquence de grappes atteintes par le black rot ","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/grappe_freqblack-rot_s0_5","Grappe_FreqBlack-rot_S0_5","CLUST_BR_S05","Fréquence de présence de symptômes de black-rot sur les grappes selon une échelle 0-5. 
+0 : absence 
+1 : trace 
+2 : > 5% 
+3 : > 25% 
+4 : > 75% 
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/grappe_freqmildiou_s0_5","Grappe_FreqMildiou_S0_5","CLUST_DM_S05","Fréquence de présence de symptôme de mildiou sur les grappes selon une échelle 0-5. 
+0 : absence 
+1 : trace 
+2 : > 5% 
+3 : > 25% 
+4 : > 75% 
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/grappe_freqoidium_s0_5","Grappe_FreqOidium_S0_5","CLUST_PM_S05","Fréquence de présence de symptôme d'oïdium sur les grappes selon une échelle 0-5. 
+0 : absence 
+1 : trace 
+2 : > 5% 
+3 : > 25% 
+4 : > 75% 
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/grappe_frequence_mildiou","grappe_Freq_Mildiou","Fréquence Mildiou","Fréquence de grappes présentant un ou plusieurs symptômes de présence de mildiou","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/grappe_frequence_oidium","Grappe_Freq_Oidium","Fréquence Oidium","Pourcentage de grappes présentant un ou plusieurs symptômes de présence d'oïdium","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/grappe_intensite_attaque_oidium","Grappe_intensite_attaque_oidium","UN_BER_PC","Moyenne globale des pourcentages des surfaces touchées par l'oïdium sur grappes (incluant grappes non touchées).","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:1000176",NA,NA
+"http://sinfonia.vignevin.com/id/variable/grappe_intensite_black-rot","Intensité attaque Black-rot","Intensité attaque Black-rot","Intensité d'attaque (pourcentage des baies atteintes par le black rot)","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:1000171","http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/grappe_intensite_mildiou","grappe_intensité_attaque_mildiou","Intensité attaque Mildiou","Moyenne globale des pourcentages des surfaces touchées par le mildiou sur grappes (incluant grappes non touchées) (Intensité d'attaque)","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:1000172","http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/grappe_pourriture_acide","grappe_pourriture_acide","Grappe_Pourriture_acide","Estimation visuelle du pourcentage de pourriture acide sur grappe","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/grappe_pourriture_grise","grappe_pourriture_grise","BOTRY_BER_PC","Évaluation visuelle du pourcentage atteint par la pourriture grise (botrytis) sur les grappes.","http://www.w3.org/2001/XMLSchema#decimal","http://www.cropontology.org/ontology/CO_356/Vitis/1000174","http://sinfonia.vignevin.com/id/variablesGroup/maladie","Maladie"
+"http://sinfonia.vignevin.com/id/variable/grappe_pourriture_grise_s0_5","grappe_pourriture_grise_S0_5","CLUST_BOTRY_S05","Fréquence de présence de symptômes de pourriture grise (botrytis) sur les grappes selon une échelle 0-5. 
+0 : absence 
+1 : trace 
+2 : > 5% 
+3 : > 25% 
+4 : > 75% 
+5 : généralisé","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/ig-apex","apex_IC","apex_IG","Notation visuelle de la croissance des apex de la plante, suivi par l'indice de croissance iG-Apex. iG-Apex = (P + 0.5*C) / (P+R+C), avec P= nombre d'apex en croissance ; R = nombre d'apex ralentis ; C = nombre d'apex chuts. (Pichon et al.,2020)","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/millesime","Millésime","Année","Millésime auquel se rapporte les données associées (par exemple, dans le cas de pesées de bois de taille réalisées en janvier, le millésime est l'année précédente)","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/mout_absorbance_bleue_a_620_analyse_spectrophotometrique","mout_absorbance_bleue","DO 620","Mesure de l'absorbance bleue sur moût issu de baies à 620 nm.","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:2000049","http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_absorbance_jaune_a_420_analyse_spectrophotometrique","mout_absorbance_jaune","DO 420","Mesure de l'absorbance jaune à 420 nm sur moût.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_absorbance_rouge_a_520_analyse_spectrophotometrique","mout_absorbance_rouge","DO 520","Mesure de l'absorbance jaune du moût à 520 nm. ","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_acide_lactique_gl","Mout_Acide_lactique_g/L","Moût_Concentration en acide lactique","Concentration en acide lactique dans les moûs ou dans les vins en g/L","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_acide_shikimique_gl","mout_acide_shikimique_gL",NA,"Dosage de la concentration en acide shikimique dans le moût en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_acide_shikimique_mm","mout_acide_shikimique_mM",NA,"Calcul de la concentration en acide shikimique en milli molaire sur moût, calculé à partir d'un dosage en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_acidit_volatile_gl","Mout_Acidité_volatile_g/L","Moût_Acidite volatile","Acidité volatile du moût ou du vin exprimée en g/L","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_anthocyanes_mgl","Mout_Anthocyanes_mg/L","Mout_Antho_mg/L","Le dosage des anthocyanes du vin s’effectue en utilisant deux propriétés dues à leurs structures : la modification de leurs couleurs en fonction du pH ; la transformation en dérivés incolores sous l’action de certains réactifs comme les ions bisulfite. Ainsi, la variation de l’absorbance lue à 520 nm après addition d’ions bisulfite en excès, est proportionnelle à la teneur en anthocyanes.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_at","Mout_AT","Moût_Acidité_Titration_g/L éq H2SO4","Acidité totale sur moût","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_ascorbique_hplc-dad_mgl","mout_acide_ascorbique_mgL",NA,"Mesure de la concentration en acide ascorbique sur moût, en mg par litre de moût.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_ascorbique_hplc-dad_microm","mout_acide_ascorbique_microM","Moût","Mesure de la concentration en acide ascorbique sur moût.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_caftarique_hplc-dad_mgl","mout_acide_caftarique_mgL","Moût","Concentration en acide caftarique dans le moût en mg/L.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_caftarique_hplc-dad_microm","mout_acide_caftarique_microM",NA,"Concentration en acide caftarique dans le moût en micro molaire.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_cis-coutarique_hplc-dad_mgl","mout_acide_cis-coutarique_mgL",NA,"Concentration en acide cis-coutarique dans le moût mesuré en mg/L (de moût).","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_cis-coutarique_hplc-dad_microm","mout_acide_cis-coutarique_microM",NA,"Concentration en acide cis-coutarique sur moût mesuré en micro molaire.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_malique_hplc-dad-refractometrie_gl","mout_acide_malique_gL","MUST_MAL","Mesure de la concentration en acide malique sur moût par HPLC.","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000103","http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_tartrique_hplc-dad-refractometrie_gl","mout_acide_tartrique_gL","MUST_acid_tartaric","Concentration en acide tartrique en gramme par litre de moût mesuré dans le moût par HPLC","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000223","http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_trans-coutarique_hplc-dad_mgl","mout_acide_trans-coutarique_mgL",NA,"Concentration en acide trans-coutarique mesuré par HPLC dans le moût en mg/L.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_acide_trans-coutarique_hplc-dad_microm","mout_acide_trans-coutarique_microM",NA,"Concentration en acide trans-coutarique dans le moût en micro molaire.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_fructose_hplc-dad-refractometrie_gl","mout_fructose_gL",NA,"Concentration en fructose en gramme par litre de moût.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_fructose_hplc-dad-refractometrie_mm","mout_fructose_mM",NA,"Calcul de la concentration en fructose dans le moût en milli-molaire, à partir d'un dosage en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_glucose_hplc-dad-refractometrie_gl","mout_glucose_gL","MUST_GLUC","Dosage de la concentration en glucose dans le moût en gramme par litre.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_concentration_en_glucose_hplc-dad-refractometrie_mm","mout_glucose_mM","MUST_GLUC","Conversion en concentration molaire après mesure en g/L","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_glutathion_mgl","mout_glutathion_mgL",NA,NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_indice_de_clarte_l_analyse_spectrophotometrique","mout_indice_clarte","indice_clarte_L","Indice de clarté du moût, calculé à partir de mesures spectrophotométriques.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_indice_de_jaune_b_analyse_spectrophotometrique","mout_indice_jaune","indice_jaune_b","Indice de jaune sur moût, calculé à partir de mesures spectrophotométriques.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_indice_de_rouge_a_analyse_spectrophotometrique","mout_indice_rouge","mout_indice_rouge_a","Indice de rouge sur moût, calculé à partir de mesures spectrophotométriques.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_intensite_colorante_modifiee_analyse_spectrophotometrique","mout_intensite_colorante","mout_IC","L'intensité colorante modifiée ou indice colorimétrique mesurée sur moût correspond à la somme des absorbances à 420, 520 et 620 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_ipt","Mout_IPT","Moût_Indice_Polyphenol_Totaux",NA,"http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_nuance","Mout_Nuance","Mout_Teinte","La teinte ou la nuance s’exprime par le rapport des absorbances à 420 et 520 nm.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_ph","mout_pH","Moût_Acidité_pHmètre_pH","pH du mout","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_potassium_mgl","Mout_Potassium_mg/L","Moût_Concentration en potassium_mg/L","Concentration en potassium dans les moûts dosé par spectrophotométrie de flamme, en mg/L","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_sucres_glucfruct_gl","Mout_Sucres_GlucFruct_g/l","Mout_GlucoseFructose_g/L","Dosage des sucres fermentescibles (glucose et fructose) présents dans le moût par HPLC (ou enzymatique)","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_sucres_red_fehling_gl","Mout_Sucres_Red_Fehling_g/L","Mout_Sucres_Réducteurs_Fehling_g/L","Analyse des sucres réducteurs (méthode Fehling) pour la détermination des sucres à la fin de la fermentation. Le résultat comprend également la teneur en pentoses qui ne sont pas des sucres fermentescibles. Les pentoses sont des sucres réducteurs contenus dans les raisins en quantité constante comprise entre 1 et 3 g/L. La quantité présente dépend de plusieurs facteurs, tels que le type de cépage, le terrain, la latitude, etc.","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_tanins_totaux_mgl","Mout_Tanins_totaux_mg/L","Moût_Concentration en tanins","Dosage par butanolyse des tanins totaux du vin, exprimés en mg/L","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/mout_tap","mout_TAP","Mout_degré_%vol","titre alcoométrique probable en %vol","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/oeno","Oeno"
+"http://sinfonia.vignevin.com/id/variable/nb_grappes_cep","Gp_nb_Cep","NB_CLUST_PLANT","Nombre moyen de grappes par pieds (comptage à la récolte ou proche)","http://www.w3.org/2001/XMLSchema#decimal","http://www.cropontology.org/rdf/CO_356:1000158","http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/nombre_rameaux_cep","nombre_rameaux_cep","NB_SHOOT_ALL_PLANT","Comptage du nombre total de rameaux par cep.","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/term/CO_356:1000264",NA,NA
+"http://sinfonia.vignevin.com/id/variable/pluie_jour_mm","pluie_jour_mm","Pluie_journaliere en mm","Quantité de pluie tombée journalièrement calculée par les modèles de MétéoFrance ","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/poids_baie","baie_poids","berry_weight","poids d'une baie en gramme (généralement calculé à partir d'un échantillon de 100 ou 200 baies)","http://www.w3.org/2001/XMLSchema#decimal","http://www.cropontology.org/ontology/CO_356/Vitis/1000215","http://sinfonia.vignevin.com/id/variablesGroup/matu","Matu"
+"http://sinfonia.vignevin.com/id/variable/rendement-cep","cep_rendement","YIELD_PLANT","Rendement par pied mesuré à la récolte, en kg","http://www.w3.org/2001/XMLSchema#decimal","http://www.cropontology.org/rdf/CO_356:1000247","http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/stades_bbch","StadesPhéno_BBCH","Phéno_BBCH","L’échelle phénologique BBCH vigne décrit les stades phénologiques ou stades de développement de la vigne pendant son cycle de vie, comme la floraison par exemple. La notation est du type :
+- stade principal : BBCH 6 (stade principal 6, soit la floraison) 
+- stade secondaire : BBCH 65 (50% des fleurs ouvertes) ","http://www.w3.org/2001/XMLSchema#string",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/vate_port","port_VATE","Note_Port_rameau","Notation du port des rameaux avant palissage selon protocole VATE 1:étalé 3:érigé (attention échelle différente de OIV 006)","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/vate_vigueur","Rameau_Vigueur_VATE_S1_3","Rameau_Vigueur","Notation de vigueur des sarments après chute des feuilles protocole VATE  échelle de 1:faible à 3:forte (attention échelle différente de OIV 351)","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/veraison","véraison","Grappe_Véraison","Date à laquelle 50% des baies ont vérées","http://www.w3.org/2001/XMLSchema#date","http://www.cropontology.org/rdf/CO_356:1000010","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
+"http://sinfonia.vignevin.com/id/variable/veraison-jj","véraison_jj","DOY_VER","Date de véraison (50%) exprimée en jours julien. Le stade de véraison est déterminé par le changement de consistance de la baie.","http://www.w3.org/2001/XMLSchema#integer","http://www.cropontology.org/ontology/CO_356/Vitis/1000078","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
+"http://sinfonia.vignevin.com/id/variable/vigueur_oiv351","Rameau_vigueur_OIV351","SHOOT_G_OIV_351","Observation à faire à la floraison et doit être completée après la chute des feuilles. Evaluation visuelle de la longueur
+et du diamètre des rameaux principaux. Moyenne de la vigueur de 10 rameaux à la proximité du tronc. Remarque:
+dépend des conditions culturales.
+1 : très faible
+3 : faible
+5 : moyenne
+7 : forte
+9 : très forte","http://www.w3.org/2001/XMLSchema#decimal","https://cropontology.org/rdf/CO_356:1000240","http://sinfonia.vignevin.com/id/variablesGroup/agro","Agro"
+"http://sinfonia.vignevin.com/id/variable/vin_acidite_bouche_ps","Vin_Acidité_bouche_PS0-10","Vin_Acidité_bouche","Mesure de l'intensité en bouche de l'acidité","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_amer_bouche_ps","Vin_Amer_bouche_PS0-10","Vin_Amer_bouche","Mesure de l'intensité de la perception amère","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_animal_nez_ps","Vin_Animal_nez_PS0-10","Vin_Animal_nez","Mesure de l'intensité olfactive animale","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_appreciation_globale_ps","Vin_Appréciation_globale_PS0-10","Vin_Appréciation_globale","Mesure de l'appréciation globale du vin","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_defaut_bouche_ps","Vin_Défaut_bouche_PS0-10","Vin_Défaut_bouche","Mesure d'un défaut en bouche","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_defaut_nez_ps","Vin_Défaut_nez_PS0-10","Vin_Défaut_nez","Mesure de l'intensité olfactive comportant un défaut","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_empyreumatique_nez_ps","Vin_Empyreumatique_nez_PS0-10","Vin_Empyreumatique_nez","Mesure de l'intensité olfactive empyreumatique","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_epice_nez_ps","Vin_Epicé_nez_PS0-10","Vin_Epicé_nez","Mesure de l'intensité olfactive épicée","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_floral_nez_ps","Vin_Floral_nez_PS0-10","Vin_Floral_nez","Mesure de l'intensité olfactive florale","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_fruite_nez_ps","Vin_Fruité_nez_PS0-10","Vin_Fruité_nez","Mesure de l'intensité olfactive fruité","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_gras_bouche_ps","Vin_Gras_bouche_PS0-10","Vin_Gras_bouche","Mesure de l'intensité de la perception gras","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_harmonie_globale_ps","Vin_Harmonie_globale_PS0-10","Vin_Harmonie_globale","Mesure de la perception globale de l'harmonie","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_intensite_olfactive_globale_ps","Vin_Intensité_olfactive_globale_PS0-10","Vin_Intensité_olfactive_globale","Mesure de l'intensité olfactive globale","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_mineral_nez_ps","Vin_Minéral_nez_PS0-10","Vin_Minéral_nez","Mesure de l'intensité olfactive minérale","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_persistance_bouche_ps","Vin_Persistance_bouche_PS0-10","Vin_Persistance_bouche","Mesure de l'intensité de la perception aromatique en bouche","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_stadevinif","Vin_StadeVinif","Vin_Stade de vinification","Stade lors du processus de vinification : débourbage, fin FA, fin FML, fin fini","http://www.w3.org/2001/XMLSchema#string",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_tanins_bouche_ps","Vin_Tanins_bouche_PS0-10","Vin_Tanins_bouche","Mesure de l'intensité en bouche de la perception tannique","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_tanins_qualite_bouche_ps","Vin_Tanins_qualité_bouche_PS0-10","Vin_Tanins_qualité_bouche","Mesure de la perception qualitative des tanins","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"
+"http://sinfonia.vignevin.com/id/variable/vin_vegetal_nez_ps","Vin_Végétal_nez_PS0-10","Vin_Végétal_nez","Mesure de l'intensité olfactive végétale","http://www.w3.org/2001/XMLSchema#decimal",NA,"http://sinfonia.vignevin.com/id/variablesGroup/senso","senso"

@@ -1,0 +1,4 @@
+Name,prefix_SO_URI,Authentification,Plot,Sub-plot,Vinestock,Wine
+Id1,http://sinfonia.vignevin.com/id/scientific-object/so-,http://192.168.0.168:8673/rest,http://sinfonia.vignevin.com/oeso#Plot,http://sinfonia.vignevin.com/oeso#Sub-plot,http://sinfonia.vignevin.com/oeso#Vinestock,http://sinfonia.vignevin.com/oeso#Wine
+Id2,Sinfonia,shiny.user@vignevin.com,Parcelle,Placette,Cep,Vin
+Id3,,,pu,plt,cep,vin

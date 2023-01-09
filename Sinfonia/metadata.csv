@@ -1,0 +1,33 @@
+prop_SI,prop_read,Sub-plot,Plot,Vinestock,Wine,col_type,col_source,col_function,col_options
+uri,uri,TRUE,TRUE,TRUE,TRUE,,,,
+type,type,TRUE,TRUE,TRUE,TRUE,,,,
+name,Nom,TRUE,TRUE,TRUE,TRUE,,,,
+vocabulary:hasCreationDate,DateCreation,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format=""%d/%m/%Y"")}",'date'
+vocabulary:hasDestructionDate,DateDestruction,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format=""%d/%m/%Y"")}",'date'
+vocabulary:isHosted,InstallTech,TRUE,TRUE,TRUE,TRUE,,,,
+vocabulary:isPartOf,URIParent,TRUE,TRUE,TRUE,TRUE,,,,
+rdfs:comment,Description,TRUE,TRUE,TRUE,TRUE,,,,
+geometry,GeospatialCoord,TRUE,TRUE,TRUE,TRUE,,,,
+http://sinfonia.vignevin.com/oeso#hasPositionX,PositionX,TRUE,FALSE,TRUE,FALSE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#hasPositionY,PositionY,TRUE,FALSE,TRUE,FALSE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#hasBlock,Bloc,TRUE,FALSE,TRUE,FALSE,,,,
+vocabulary:hasFactorLevel,NiveauFacteur,TRUE,TRUE,TRUE,TRUE,,,,
+vocabulary:hasGermplasm,Greffon,TRUE,TRUE,TRUE,TRUE,dropdown,"c(NA,sort(germplasm$name))",,"c(NA,sort(germplasm$name))"
+http://sinfonia.vignevin.com/oeso#hasRootstockGermplasm,PorteGreffe,TRUE,TRUE,TRUE,FALSE,dropdown,"c(NA,sort(germplasm$name))",,"c(NA,sort(germplasm$name))"
+http://sinfonia.vignevin.com/oeso#NumberOfPlants,NbCep,TRUE,FALSE,FALSE,FALSE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#PlotArea,Surface_ha,FALSE,TRUE,FALSE,FALSE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#PruningSystem,TypeTaille,FALSE,TRUE,FALSE,FALSE,dropdown,"c(""Gobelet"",""Cordon de Royat"",""Cordon double"",""Guyot simple"",""Guyot double"",""Guyot Poussard"",""Guyot mixte"",""Chablis"",""TRP"",""Taille minimale"")",,"c(""Gobelet"",""Cordon de Royat"",""Cordon double"",""Guyot simple"",""Guyot double"",""Guyot Poussard"",""Guyot mixte"",""Chablis"",""TRP"",""Taille minimale"")"
+http://sinfonia.vignevin.com/oeso#hasVintage,Millesime,FALSE,TRUE,FALSE,TRUE,dropdown,c(2010:2022),,c(2010:2022)
+http://sinfonia.vignevin.com/oeso#HasWineType,TypeVin,FALSE,FALSE,FALSE,TRUE,dropdown,"c(""Tranquille"",""Effervescent"")",,"c(""Tranquille"",""Effervescent"")"
+http://sinfonia.vignevin.com/oeso#TrainingSystem,Conduite,FALSE,TRUE,FALSE,FALSE,dropdown,"c(""Espalier"",""Taille minimale"",""Gobelet"",""Echalas"",""Lys"",""Lyre ouverte"",""Pergola"")",,"c(""Espalier"",""Taille minimale"",""Gobelet"",""Echalas"",""Lys"",""Lyre ouverte"",""Pergola"")"
+http://sinfonia.vignevin.com/oeso#WineColor,Couleur,FALSE,FALSE,FALSE,TRUE,dropdown,"c(""Blanc"",""Rouge"",""Rosé"")",,"c(""Blanc"",""Rouge"",""Rosé"")"
+http://sinfonia.vignevin.com/oeso#hasVolume,Volume_hL,FALSE,FALSE,FALSE,TRUE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#RowSpacing,EcartRang_m,FALSE,TRUE,FALSE,FALSE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#VineSpacing,EcartCep_m,FALSE,TRUE,FALSE,FALSE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#WineMaceration,TypeMaceration,FALSE,FALSE,FALSE,TRUE,,,,
+http://sinfonia.vignevin.com/oeso#MalolacticFermentation,FermMalo,FALSE,FALSE,FALSE,TRUE,checkbox,,,'logical'
+http://sinfonia.vignevin.com/oeso#RowOrientation,OrientRang,FALSE,TRUE,FALSE,FALSE,dropdown,"c(""NS"",""EO"",""NO-SE"",""NE-SO"")",,"c(""NS"",""EO"",""NO-SE"",""NE-SO"")"
+http://sinfonia.vignevin.com/oeso#useWineBacteria,Bacteries,FALSE,FALSE,FALSE,TRUE,,,,
+http://sinfonia.vignevin.com/oeso#WineMacerationTime,TempsMaceration_J,FALSE,FALSE,FALSE,TRUE,numeric,,function(x) {as.numeric(x)},
+http://sinfonia.vignevin.com/oeso#useWineYeast,Levures,FALSE,FALSE,FALSE,TRUE,dropdown,"c(NA,sort(yeast$name))",,
+http://sinfonia.vignevin.com/oeso#derivesFrom,DeriveDe,FALSE,FALSE,FALSE,TRUE,,,,
