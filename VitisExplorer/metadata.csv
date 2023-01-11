@@ -2,8 +2,8 @@ prop_SI,prop_read,Plot,MustObject,Sample,Wine,col_type,col_source,col_function,c
 uri,uri,TRUE,TRUE,TRUE,TRUE,,,,
 type,type,TRUE,TRUE,TRUE,TRUE,,,,
 name,Nom,TRUE,TRUE,TRUE,TRUE,,,,
-vocabulary:hasCreationDate,DateCreation,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format="%d/%m/%Y")}",'date'
-vocabulary:hasDestructionDate,DateDestruction,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format="%d/%m/%Y")}",'date'
+vocabulary:hasCreationDate,DateCreation,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format='%d/%m/%Y')}",'date'
+vocabulary:hasDestructionDate,DateDestruction,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format='%d/%m/%Y')}",'date'
 vocabulary:isHosted,InstallTech,TRUE,TRUE,TRUE,TRUE,,,,
 vocabulary:isPartOf,URIParent,TRUE,TRUE,TRUE,TRUE,,,,
 rdfs:comment,Description,TRUE,TRUE,TRUE,TRUE,,,,
