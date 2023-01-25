@@ -11,3 +11,4 @@ Vocabulary:hasGeometry,GeospatialCoord,TRUE,TRUE,TRUE,TRUE,,,,
 vocabulary:hasFactorLevel,NiveauFacteur,TRUE,TRUE,TRUE,TRUE,,,,
 vocabulary:hasGermplasm,Greffon,TRUE,FALSE,FALSE,TRUE,dropdown,"c(NA,sort(germplasm$name))",,"c(NA,sort(germplasm$name))"
 vocabulary:hasReplication,Réplication,TRUE,TRUE,TRUE,TRUE,,,,
+vitis-explorer:firstVineStock,Première souche,TRUE,FALSE,FALSE,FALSE,,,,
