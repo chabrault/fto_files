@@ -17,7 +17,7 @@ http://sinfonia.vignevin.com/oeso#hasRootstockGermplasm,PorteGreffe,TRUE,TRUE,TR
 http://sinfonia.vignevin.com/oeso#NumberOfPlants,NbCep,TRUE,FALSE,FALSE,FALSE,numeric,,function(x) {as.numeric(x)},
 http://sinfonia.vignevin.com/oeso#PlotArea,Surface_ha,FALSE,TRUE,FALSE,FALSE,numeric,,function(x) {as.numeric(x)},
 http://sinfonia.vignevin.com/oeso#PruningSystem,TypeTaille,FALSE,TRUE,FALSE,FALSE,dropdown,"c(""Gobelet"",""Cordon de Royat"",""Cordon double"",""Guyot simple"",""Guyot double"",""Guyot Poussard"",""Guyot mixte"",""Chablis"",""TRP"",""Taille minimale"")",,"c(""Gobelet"",""Cordon de Royat"",""Cordon double"",""Guyot simple"",""Guyot double"",""Guyot Poussard"",""Guyot mixte"",""Chablis"",""TRP"",""Taille minimale"")"
-http://sinfonia.vignevin.com/oeso#hasVintage,Millesime,FALSE,TRUE,FALSE,TRUE,dropdown,c(2010:2022),,c(2010:2022)
+http://sinfonia.vignevin.com/oeso#hasVintage,Millesime,FALSE,FALSE,FALSE,TRUE,dropdown,c(2010:2022),,c(2010:2022)
 http://sinfonia.vignevin.com/oeso#HasWineType,TypeVin,FALSE,FALSE,FALSE,TRUE,dropdown,"c(""Tranquille"",""Effervescent"")",,"c(""Tranquille"",""Effervescent"")"
 http://sinfonia.vignevin.com/oeso#TrainingSystem,Conduite,FALSE,TRUE,FALSE,FALSE,dropdown,"c(""Espalier"",""Taille minimale"",""Gobelet"",""Echalas"",""Lys"",""Lyre ouverte"",""Pergola"")",,"c(""Espalier"",""Taille minimale"",""Gobelet"",""Echalas"",""Lys"",""Lyre ouverte"",""Pergola"")"
 http://sinfonia.vignevin.com/oeso#WineColor,Couleur,FALSE,FALSE,FALSE,TRUE,dropdown,"c(""Blanc"",""Rouge"",""Rosé"")",,"c(""Blanc"",""Rouge"",""Rosé"")"
