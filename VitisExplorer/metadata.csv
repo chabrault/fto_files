@@ -4,11 +4,14 @@ type,type,TRUE,TRUE,TRUE,TRUE,,,,
 name,Nom,TRUE,TRUE,TRUE,TRUE,,,,
 vocabulary:hasCreationDate,DateCreation,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format='%d/%m/%Y')}",'date'
 vocabulary:hasDestructionDate,DateDestruction,TRUE,TRUE,TRUE,TRUE,date,,"function(x) {as.Date(x,format='%d/%m/%Y')}",'date'
-vocabulary:isHosted,InstallTech,TRUE,TRUE,TRUE,TRUE,,,,
-vocabulary:isPartOf,URIParent,TRUE,TRUE,TRUE,TRUE,,,,
+vocabulary:isHosted,Est accueillie,TRUE,TRUE,TRUE,TRUE,,,,
+vocabulary:isPartOf,Est une partie de,TRUE,TRUE,TRUE,TRUE,,,,
 rdfs:comment,Description,TRUE,TRUE,TRUE,TRUE,,,,
 Vocabulary:hasGeometry,GeospatialCoord,TRUE,TRUE,TRUE,TRUE,,,,
 vocabulary:hasFactorLevel,NiveauFacteur,TRUE,TRUE,TRUE,TRUE,,,,
 vocabulary:hasGermplasm,Greffon,TRUE,FALSE,FALSE,TRUE,dropdown,"c(NA,sort(germplasm$name))",,"c(NA,sort(germplasm$name))"
 vocabulary:hasReplication,Réplication,TRUE,TRUE,TRUE,TRUE,,,,
 vitis-explorer:firstVineStock,Première souche,TRUE,FALSE,FALSE,FALSE,,,,
+vitis-explorer:firstRank,Premier rang,TRUE,FALSE,FALSE,FALSE,,,,
+vitis-explorer:lastRank,Dernière souche,TRUE,FALSE,FALSE,FALSE,,,,
+Vitis-explorer:originM,Issue de,FALSE,TRUE,FALSE,FALSE,,,,
