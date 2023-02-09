@@ -133,6 +133,19 @@ Echelle :  0 : absence / 1 : trace / 2 : > 5% / 3 : > 25% / 4 : > 75% / 5 : gén
 "http://sinfonia.vignevin.com/id/variable/feuille_phylloxera_s0_3","Feuille_phylloxera_S0_3","LEAF_PHYLLOXERA","Mesure de l'intensité d'attaque du phylloxera sur feuille. 0 : absence 1 : trace 2 : un peu 3 : beaucoup.","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
 "http://sinfonia.vignevin.com/id/variable/feuille_phylloxra_s1_3","Feuille_phylloxéra_S1_3","LEAF_PHYLLOXERA","Symptômes du phylloxéra sur les feuilles de vigne.
 0 : absence, 1 : trace, 2 : un peu, 3 : beaucoup","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
+"http://sinfonia.vignevin.com/id/variable/feuille_rsistance_black-rot_s1_9","Feuille_Résistance_Black-rot_S1_9","LEAF_BR_S1_9","Notation de la résistance maladie des feuilles au black-rot, selon une échelle entre 1 (beaucoup symptômes) et 9 (pas de symptômes).
+
+Description de l'échelle :
+
+note 9 : absence totale de symptômes visibles.
+
+note 7 : présence de petites taches délimitées, de diamètre inférieur à 2 cm, caractérisées par l'absence de pycnides dans la zone nécrosée. Le nombre de taches est très limité. Ordre de grandeur = moins de 5 par pied.
+
+note 5 : présence de petites taches délimitées, d’un diamètre inférieur à 2cm, avec de nombreuses pycnides dans la zone nécrosée. Le nombre de taches est assez limité. Ordre de grandeur = 10-20 par pied.
+
+note 3 : présence de taches délimitées voire étendues, d'un diamètre pouvant atteindre 3 -5 cm. Les taches sont nombreuses, avec des pycnides bien visibles. Leur nombre se situe autour de 30 par pied.
+
+note 1 : présence de taches non délimitées et très étendues, ou limbe entièrement parasité. Pycnides denses et bien visibles. Les taches sont très nombreuses, souvent au-delà d'une quarantaine par pied.","http://www.w3.org/2001/XMLSchema#integer",NA,NA,NA
 "http://sinfonia.vignevin.com/id/variable/fleur_intensite_attaque_mildiou","Fleur_intensite_attaque_mildiou","FLOW_DM_PC","Moyenne globale des pourcentages des surfaces touchées par le mildiou sur fleurs : intensité d'attaque.","http://www.w3.org/2001/XMLSchema#decimal",NA,NA,NA
 "http://sinfonia.vignevin.com/id/variable/floraison","floraison","Inflorescence_Floraison","date à laquelle 50% des boutons floraux ont fleuri","http://www.w3.org/2001/XMLSchema#date","http://www.cropontology.org/rdf/CO_356:1000011","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
 "http://sinfonia.vignevin.com/id/variable/floraison-jj","floraison_jj","DOY_FLO","Date de floraison exprimée en jours de l'année (jour julien). La floraison correspond à 50% de fleurs ouvertes (BBCH65).","http://www.w3.org/2001/XMLSchema#integer","http://www.cropontology.org/ontology/CO_356/Vitis/1000077","http://sinfonia.vignevin.com/id/variablesGroup/pheno","Pheno"
